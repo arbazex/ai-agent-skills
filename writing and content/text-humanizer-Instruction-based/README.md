@@ -1,4 +1,4 @@
-# ai-text-humanizer
+# text-humanizer-Instruction-based
 
 **Detect and rewrite AI writing patterns. Makes text sound like a human wrote it.**
 
@@ -150,7 +150,7 @@ The patterns in this skill are grounded in:
 ## Installation
 
 1. Copy the `SKILL.md` file into your agent's skills directory.
-2. Rename the folder to `ai-text-humanizer` (lowercase, hyphens only, matching the `name` field).
+2. Rename the folder to `text-humanizer-Instruction-based` (lowercase, hyphens only, matching the `name` field).
 3. Publish via your skill platform (ClawHub, OpenClaw, or equivalent).
 
 No environment variables. No binaries. No setup beyond dropping the file.

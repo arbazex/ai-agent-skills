@@ -1,8 +1,8 @@
 ---
-name: ai-text-humanizer
+name: text-humanizer-Instruction-based
 description: Detect and rewrite AI-generated writing patterns, em dashes, rule-of-three lists, sycophantic openers, hollow buzzwords like "delve" and "landscape", and replace them with direct, human-sounding prose.
 version: 1.0.0
-homepage: https://github.com/arbazex/ai-text-humanizer
+homepage: https://github.com/arbazex/text-humanizer-Instruction-based
 metadata: {"openclaw":{"emoji":"✍️"}}
 ---
 
